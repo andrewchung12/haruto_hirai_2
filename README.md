@@ -1,2 +1,1 @@
-# haruto_hirai_2
-2nd one 
+#all files you need are in this the folder is for other assignments
